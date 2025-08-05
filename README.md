@@ -55,3 +55,20 @@ The objective of this project is to develop a predictive model for forecasting r
 ```bash
 git clone https://github.com/laeeq80/riverFlowPrediction.git
 cd riverFlowPrediction
+
+Open project in and IDE e.g. pyCharm and run the current file.
+
+## Results Summary
+Algorithms Evaluated: Linear Regression, Decision Trees, Random Forest, Support Vector Regression, Artificial Neural Networks
+
+Performance Metrics: RMSE, R², MAE
+
+Best Model: ANN demonstrated the highest accuracy and reliability for river discharge prediction
+
+## License
+This repository is provided for academic and educational purposes only. Reuse or adaptation for other projects should properly acknowledge the student authors and supervising faculty.
+
+## Contact
+For questions or collaboration inquiries:
+
+Dr. Laeeq Ahmed – laeeq80@gmail.com
