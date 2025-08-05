@@ -56,7 +56,7 @@ The objective of this project is to develop a predictive model for forecasting r
 git clone https://github.com/laeeq80/riverFlowPrediction.git
 cd riverFlowPrediction
 
-Open project in and IDE e.g. pyCharm and run the current file.
+Open project in an IDE e.g. pyCharm and run the current file.
 
 ## Results Summary
 Algorithms Evaluated: Linear Regression, Decision Trees, Random Forest, Support Vector Regression, Artificial Neural Networks
